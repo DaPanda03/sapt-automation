@@ -1,0 +1,4 @@
+host: "mongodb://10.33.30.11:23771/fair_test1?retryWrites=false"
+port: 27017
+logdir: null
+uri_mode: true
